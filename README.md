@@ -3,8 +3,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-blue.svg)
-![Next.js](https://img.shields.io/badge/Next.js-13.4-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115.2-blue.svg)
+![Next.js](https://img.shields.io/badge/Next.js-14.2.15-blue.svg)
 
 ## 💖 Support the Project
 
